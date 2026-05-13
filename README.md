@@ -44,7 +44,7 @@ These projects are part of my Data Science continuing education at IU Internatio
 ## Background
 
 🎓 M.Sc. Analytical Chemistry  
-📍 Currently completing a Data Science Weiterbildung  
+📍 Currently completing a Data Science Further Education Course
 🔬 Previously: mass spectrometry method development, environmental and biological matrices  
 🌱 Learning: building things that run, not just things that measure
 
