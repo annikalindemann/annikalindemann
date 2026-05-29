@@ -2,7 +2,7 @@
 
 I'm an analytical chemist transitioning into data science, with a background in mass spectrometry and a strong interest in applying computational methods to chemical and biological data.
 
-My work so far has lived at the bench — developing and validating LC-MS/MS and GC-MS/MS methods, working with complex real-world datasets where data quality problems aren't edge cases, they're the norm. Now I'm building the technical toolkit to match: structured programming, database design, statistical analysis, and visualization.
+My work so far has lived at the bench — developing and validating LC-MS/MS and GC-MS methods, working with complex real-world datasets where data quality problems aren't edge cases, they're the norm. Now I'm building the technical toolkit to match: structured programming, database design, statistical analysis, and visualization.
 
 My target is the intersection of both worlds: bioinformatics, proteomics, and data-driven analytical chemistry.
 
@@ -12,7 +12,7 @@ My target is the intersection of both worlds: bioinformatics, proteomics, and da
 
 | Domain Knowledge | Technical Skills |
 |---|---|
-| LC-MS/MS · GC-MS/MS · QToF | Python (pandas, numpy, matplotlib, seaborn) |
+| LC-MS/MS · GC-MS | Python (pandas, numpy, matplotlib, seaborn) |
 | Method development & validation | SQL · PostgreSQL |
 | Real-world data quality judgment | R · RStudio |
 | Proteomics & metabolomics context | Git · GitHub · Jupyter Notebooks |
@@ -25,12 +25,11 @@ These projects are part of my Data Science continuing education at IU Internatio
 
 | Project | Description | Status |
 |---|---|---|
-| **Habit Tracker** | CLI application built with OOP and functional Python | 🔒 In review |
+| **Habit Tracker** | CLI application built with OOP and functional Python | ✅ Complete |
 | **AirBnB Data Mart** | PostgreSQL database design, normalization, and SQL querying | 🔒 In review |
-| **WHO Life Expectancy** | Data wrangling and imputation on a real-world dataset with substantial missingness | 🚧 In progress |
+| **WHO Life Expectancy** | Data wrangling and imputation on a real-world dataset with substantial missingness | ✅ Complete |
 | **Beijing Air Quality** | Multi-site EDA and visualization across 12 monitoring stations | 🚧 In progress |
 
-> Repositories will become public upon final submission.
 
 ---
 
