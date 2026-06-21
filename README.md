@@ -28,7 +28,7 @@ These projects are part of my Data Science continuing education at IU Internatio
 | **Habit Tracker** | CLI application built with OOP and functional Python | ✅ Complete |
 | **AirBnB Data Mart** | PostgreSQL database design, normalization, and SQL querying | 🔒 In review |
 | **WHO Life Expectancy** | Data wrangling and imputation on a real-world dataset with substantial missingness | ✅ Complete |
-| **Beijing Air Quality** | Multi-site EDA and visualization across 12 monitoring stations | 🚧 In progress |
+| **Beijing Air Quality** | Multi-site EDA and visualization across 12 monitoring stations | ✅ Complete |
 
 
 ---
